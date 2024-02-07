@@ -1,12 +1,11 @@
 ```
-👋 Hi, I’m @janesch97 !
-👨‍💻 I'm interested in web development...
-👨‍🎓 And I’m currently learning Node.js and accompanied tools.
+👋 Hi, I’m Tomislav!
 
-💻 I also like computer hardware...
-🎮 Playing video games...
-🐈 And cats!
+I'm interested in Linux, web development, cybersecurity and more...
+I’m currently learning Kubernetes and accompanied tools.
 
-🤔 If you find my profile interesting...
-📫 You can reach me at: tomis.janes@gmail.com
+I also like computer hardware, custom keyboards and cats!
+
+If you find my profile interesting...
+You can reach me at: tomis.janes@gmail.com
 ```
